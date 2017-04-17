@@ -16,3 +16,8 @@
 ## Set up a database (HSQLSC or H2), set up console to manage these embedded database
 
 
+
+# Tools
+## Hibernate Tools Eclipse Plugins
+http://www.journaldev.com/2940/hibernate-tools-eclipse-plugin
+
